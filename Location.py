@@ -45,7 +45,7 @@ class location:
         #This needs access to internet
         #connection
         
-        api_key = "3fa18af00c7a8e8e6d3f7db67de38e54"
+        api_key = "" #removed for security purpose
         
         #get method of requests module 
         #using latitude and longitude
